@@ -1,0 +1,5 @@
+Use case 4
+1- read xml files using pandas
+2- use xpath argument to navigate through nodes and gets two data frames from the file 
+3-get number of ids for each department 
+3- load the dataframes to the sql server
